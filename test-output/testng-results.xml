@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Small Images are present]]>
+    </line>
+    <line>
+      <![CDATA[Small Images are present]]>
+    </line>
+    <line>
+      <![CDATA[Small Images are present]]>
+    </line>
+    <line>
+      <![CDATA[Small Images are present]]>
+    </line>
+    <line>
+      <![CDATA[Small Images are present]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31258" started-at="2017-11-03T06:42:52Z" finished-at="2017-11-03T06:43:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31258" started-at="2017-11-03T06:42:52Z" finished-at="2017-11-03T06:43:23Z">
+      <class name="test.SmallImageVerifyTest">
+        <test-method status="PASS" signature="beforeconditions()[pri:0, instance:test.SmallImageVerifyTest@4f7d0008]" name="beforeconditions" is-config="true" duration-ms="7344" started-at="2017-11-03T12:12:52Z" finished-at="2017-11-03T12:12:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeconditions -->
+        <test-method status="PASS" signature="VerifysmallImage()[pri:0, instance:test.SmallImageVerifyTest@4f7d0008]" name="VerifysmallImage" duration-ms="23905" started-at="2017-11-03T12:12:59Z" finished-at="2017-11-03T12:13:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Small Images are present]]>
+            </line>
+            <line>
+              <![CDATA[Small Images are present]]>
+            </line>
+            <line>
+              <![CDATA[Small Images are present]]>
+            </line>
+            <line>
+              <![CDATA[Small Images are present]]>
+            </line>
+            <line>
+              <![CDATA[Small Images are present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifysmallImage -->
+        <test-method status="PASS" signature="postconditions()[pri:0, instance:test.SmallImageVerifyTest@4f7d0008]" name="postconditions" is-config="true" duration-ms="0" started-at="2017-11-03T12:13:23Z" finished-at="2017-11-03T12:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postconditions -->
+      </class> <!-- test.SmallImageVerifyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
